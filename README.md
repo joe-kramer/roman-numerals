@@ -16,4 +16,4 @@ _This tool will take any number between 1-3999 and convert it into the Roman Num
 * _You have to separate ones, tens, hundreds, and thousands. In other words, 99 is XCIX, not IC._
 * _You cannot count higher than 3,999 in Roman numerals._
 
-Copyright (c) 2016 **_Joe Kramer_**
+Copyright (c) 2017 **_Joe Kramer_**
